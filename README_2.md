@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muhammadaamir813
-- 👀 I’m interested in embedded systems, software development, Chip Designing.
+- 👀 I’m interested in embedded systems, software development.
 - 🌱 I’m currently learning RISC-V.
 - 💞️ I’m looking to collaborate on development of processors using RISC-V architecture
 - 📫 My email is muhammadaamir813@gmail.com
